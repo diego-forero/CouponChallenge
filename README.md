@@ -3,7 +3,8 @@
 API for the MELI Coupon Challenge.
 
 To run the API download the API branch of repository and run the application with the command:
-./mvnw spring-boot:run
+
+mvnw spring-boot:run
 
 After that the application will be running on port 8080. Then you can make a POST request to the "coupon" service: http://localhost:8080/coupon.
 
